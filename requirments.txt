@@ -1,0 +1,5 @@
+PyAutoGUI
+pyglet
+speech-recognition-python
+pipwin
+pyttsx3
